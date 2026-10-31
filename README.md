@@ -1,7 +1,7 @@
 # QuasarBrain
 
 A lightweight static landing page for QuasarBrain, focused on the worldwide
-improvement of AI content.
+improvement of AI content. Created by Harekrushna Maharana.
 
 ## Publish with GitHub Pages
 
